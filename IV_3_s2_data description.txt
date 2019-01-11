@@ -1,0 +1,9 @@
+IV_3_s2: This EEG data is hand movements, including left orientation, right orientation, forward and backward
+Recording channels: 
+10 MEG channels. Each channel records 400 samples. 
+
+Data details:
+IV_3_s2 is a 4-class EEG data set, which in total contains 160 EEG trials with 4001 samples for each trial. Each row is an EEG trial.
+The first column codes the class of the trial (1/2/3/4). The remaining columns contain samples of the 10 EEG channels. 
+This starts with 400 samples from channel 1 and ends with 400 samples from channel 10. 
+Class 1 contains 40 trials*4001 samples; Class 2 contains 40 trials*4001 samples; Class 3 contains 40 trials*4001 samples and Class 4 contains 40 trials*4001 samples.
